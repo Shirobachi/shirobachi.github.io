@@ -23,7 +23,7 @@ description: This is blog where I share my thoughs 😅
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about_me"
+  About Me: "about-me"
   Projects: "https://github.com/Shirobachi?tab=repositories"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -59,7 +59,7 @@ author:
   name: Simon Hryszko
   email: "simon@hryszko.dev"
   github: shirobachi
-  twitter: shiro_bachi
+  # twitter: shiro_bachi
 
 # Select which links to show in the footer
 footer-links-active:
