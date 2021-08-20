@@ -59,7 +59,7 @@ author:
   name: Simon Hryszko
   email: "simon@hryszko.dev"
   github: shirobachi
-  twitter: shiro_bachi
+  # twitter: shiro_bachi
 
 # Select which links to show in the footer
 footer-links-active:
