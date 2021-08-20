@@ -5,6 +5,7 @@ date: '2021-02-24 10:11'
 excerpt: This blog post will guide you on how to finetune AlexNet with pure TensorFlow.
 comments: true
 published: true
+gh-repo: daattali/beautiful-jekyll
 ---
 
 <div class="alert alert-info">
